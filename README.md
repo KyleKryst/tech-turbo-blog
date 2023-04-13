@@ -16,7 +16,7 @@ My motivation to make this project was to have a CMS-style blog site. I built th
 
 [Deployed Link][deployed link]
 
-[deployed link]: https://github.com/KyleKryst/Tech-Turbo_Blog/blob/main/README.md#deployed-link
+[deployed link]: https://github.com/KyleKryst/tech-turbo-blog/blob/main/README.md#deployed-link
 
 [License][license]
 
