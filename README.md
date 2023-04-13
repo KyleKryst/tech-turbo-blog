@@ -8,7 +8,7 @@ My motivation to make this project was to have a CMS-style blog site. I built th
 
 [Installation][installation]
 
-[installation]: https://github.com/KyleKryst/Tech-Turbo_Blog/blob/main/README.md#installation
+[installation]: https://github.com/KyleKryst/tech-turbo-blog/blob/main/README.md#installation
 
 [Screenshot][screenshot]
 
