@@ -43,7 +43,7 @@ The steps required to install this project are as listed:
 ![Screenshot](https://user-images.githubusercontent.com/119367684/231886146-ec5470f7-144c-4dcc-a5d7-cbd35aca69e9.png)
 
 ## Deployed Link ##
-
+https://tech-turbo-blogsite.herokuapp.com/
 
 ## License ##
 MIT License
