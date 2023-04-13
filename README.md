@@ -20,11 +20,11 @@ My motivation to make this project was to have a CMS-style blog site. I built th
 
 [License][license]
 
-[license]: https://github.com/KyleKryst/Tech-Turbo_Blog/blob/main/README.md#license
+[license]: https://github.com/KyleKryst/tech-turbo-blog/blob/main/README.md#license
 
 [Questions][questions]
 
-[questions]: https://github.com/KyleKryst/Tech-Turbo_Blog/blob/main/README.md#questions
+[questions]: https://github.com/KyleKryst/tech-turbo-blog/blob/main/README.md#questions
 
 ## Installation ##
 The steps required to install this project are as listed: 
