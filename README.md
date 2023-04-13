@@ -12,7 +12,7 @@ My motivation to make this project was to have a CMS-style blog site. I built th
 
 [Screenshot][screenshot]
 
-[screenshot]: https://github.com/KyleKryst/Tech-Turbo_Blog/blob/main/README.md#screenshot
+[screenshot]: https://github.com/KyleKryst/tech-turbo-blog/blob/main/README.md#screenshot
 
 [Deployed Link][deployed link]
 
