@@ -16,7 +16,7 @@ const PORT = process.env.PORT || 3001;
 const SequelizeStore = require('connect-session-sequelize')(session.Store);
 
 const sess = {
-  secret: '93 93/93',
+  secret: 'secretsquirrel',
   cookie: {
         expires: 10 * 60 * 1000
   },
